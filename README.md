@@ -1,29 +1,11 @@
-# omi
+# Omi👅
+*********
 
-## Project setup
-```
-npm install
-```
+An app that shows Popular, Playing and Top rated movies in the world. Built with Vue.
+[Check it out](https://omie.netlify.com)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![screenshot](image-1.png)
+![screenshot](image-2.png)
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Run your tests
-```
-npm run test
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
