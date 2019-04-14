@@ -8,4 +8,7 @@ An app that shows Popular, Playing and Top rated movies in the world. Built with
 
 ![screenshot2](image-2.png)
 
+![screenshot3](image-3.png)
+
+
 
